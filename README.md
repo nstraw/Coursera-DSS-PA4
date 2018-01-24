@@ -1,10 +1,10 @@
-### Coursera - Data Science Specialization
+## Coursera - Data Science Specialization
 
-Course 04 - Getting and Cleaning Data
+#### Course 04 - Getting and Cleaning Data
 
-Programming Assignment 04
+#### Programming Assignment 04
 
-#### Description
+### Description
 
 Getting and Cleaning Data Course Project
 
@@ -17,7 +17,7 @@ You will be required to submit:
 2. a link to a Github repository with your script for performing the analysis, and 
 3. a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
 
-#### Review criteria
+### Review criteria
 
 1. The submitted data set is tidy.
 2. The Github repo contains the required scripts.
@@ -27,10 +27,10 @@ You will be required to submit:
 
 You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 
-### Author
+## Author
 
-* N.Straw
+N.Straw
 
-### License
+## License
 
 No licence
