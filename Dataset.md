@@ -1,14 +1,10 @@
----
-title: "Dataset"
----
-
 ## Dataset information
 
-* download link :  [dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+1. download link :  [dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-* description : [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+2. description : [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-* content :
+3. content :
 
 - `README.txt` : description of this dataset
 - `features_info`.txt : information about the selected 561 features and their measurement/calculation methods

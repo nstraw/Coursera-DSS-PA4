@@ -27,6 +27,13 @@ You will be required to submit:
 
 You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 
+## Content
+
+* [Dataset.md](./Dataset.md) : information on the Samsung dataset
+* [README.md](./README.md) : this file
+* [run_analysis.R](./run_analysis.R) : R code for the programming assignment
+
+
 ## Author
 
 N.Straw
