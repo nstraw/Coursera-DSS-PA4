@@ -1,7 +1,6 @@
 ## Coursera - Data Science Specialization
 
 #### Course 04 - Getting and Cleaning Data
-
 #### Programming Assignment 04
 
 ### Description
