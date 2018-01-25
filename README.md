@@ -29,10 +29,10 @@ You should also include a README.md in the repo with your scripts. This repo exp
 
 ## Content
 
+* [CodeBook.md](./CodeBook.md) : desciption of the program
 * [Dataset.md](./Dataset.md) : information on the Samsung dataset
 * [README.md](./README.md) : this file
-* [run_analysis.R](./run_analysis.R) : R code for the programming assignment
-
+* [run_analysis.R](./run_analysis.R) : program of the programming assignment
 
 ## Author
 
