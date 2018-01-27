@@ -43,7 +43,7 @@ train.data <- bind_cols(train.subject, train.y, train.x)
 full.data <- bind_rows(train.data, test.data)
 
 # filter mean/std variables (task #2)
-full.data <- select(full.data, 1:2, matches("\\.mean\\.|\\.std\\."))
+full.data <- select(full.data, 1:2, matches("\\.mean(\\.|$)|\\.std(\\.|$)"))
 
 # append activity label by join (task #3)
 full.data <- merge(full.data, activity, by.x="y.id", by.y="id")
